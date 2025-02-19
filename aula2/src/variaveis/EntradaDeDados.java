@@ -1,4 +1,4 @@
- package variaveis;
+package variaveis;
 import java.util.Scanner;
 
 public class EntradaDeDados {
