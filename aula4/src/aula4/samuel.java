@@ -25,6 +25,7 @@ public class samuel {
 				System.out.println("acesso liberado");
 				break;
 			} else {
+				tentativas++;
 				System.out.println("acesso negado, tente novamente. tentativa " + tentativas + " de " + limiteTentativas);
 				
 			}
