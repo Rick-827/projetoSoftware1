@@ -19,8 +19,8 @@ public class exercicio2 {
 		double montate = capital * Math.pow((1 + taxa), tempo);
 		double juros = montate - capital;
 		
-		System.out.printf("montate final: R$ %.2f%n ", montate);
-		System.out.printf("juros ganho: R$ %.2f%n", juros);
+		System.out.println("montate final: R$ " + montate);
+		System.out.println("juros ganho: R$ " + juros);
 				
 		se.close();
 
