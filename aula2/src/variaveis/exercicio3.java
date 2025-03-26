@@ -6,14 +6,13 @@ public class exercicio3 {
     	
         Scanner jc = new Scanner(System.in);
         
-<<<<<<< HEAD
-        for (int i = 1; i <= 3; i++) {
+        double soma = 0;
+		for (int i = 1; i <= 3; i++) {
             System.out.print("Pessoa " + i + ", digite um número: ");
             soma += jc.nextDouble();
         }
         
         System.out.println("A média é: " + (soma / 3));
-=======
         System.out.println("Digite a 1º nota do aluno: ");
         double n1 = jc.nextDouble();
 
@@ -27,7 +26,6 @@ public class exercicio3 {
 
         System.out.println("a media do aluno foi de: " + media);
 
->>>>>>> 5f09b682140df1964194ab7ed2b2daffe1d2cafb
         jc.close();
     }
 }

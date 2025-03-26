@@ -6,16 +6,6 @@ public class compras {
 	
 	public static void main(String[] args) {
 		
-		//	swichi case
-		//	Maquina de Cartão
-		
-		//	Metodo de pagamento
-		//	1 - Dinheiro/pix - 10% de desconto
-		//	2 - Debito - 5% de desconto
-		//	3 - Credio - Valor Total
-		
-		//	Valor da Compra
-		
 		Scanner jc = new Scanner(System.in);
 		
 		System.out.println("informe o valor da sua compra R$: ");
