@@ -6,5 +6,6 @@
 	<classpathentry kind="src" path="aula4/src"/>
 	<classpathentry kind="src" path="desafio/src"/>
 	<classpathentry kind="src" path="poo/src"/>
+	<classpathentry kind="src" path="livraria/src/principal"/>
 	<classpathentry kind="output" path="aula3/bin"/>
 </classpath>
