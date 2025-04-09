@@ -1,8 +1,8 @@
 package principal;
 
-import ContaBancaria;
+import entidades.ContaBancaria;
 
-public class Main {
+public class Main{
     public static void main(String[] args) {
 
         ContaBancaria joao = new ContaBancaria("João",1000);
@@ -16,11 +16,9 @@ public class Main {
 
         joao.setTitular("João Kbler");
         joao.setSaldo(5000);
+        joao.depositar(500);
 
         System.out.println(joao.toString());
-
-
-
 
     }
     
