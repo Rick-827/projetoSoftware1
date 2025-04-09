@@ -12,7 +12,7 @@ public class simm {
 		int numero = jc.nextInt();
 		
 		for	(int i = 0; i <= 10; i++) {
-			System.out.println("numero")
+			System.out.println("numero");
 		}
 		jc.close();
 	}

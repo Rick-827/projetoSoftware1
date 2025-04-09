@@ -1,0 +1,280 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "variaveis/main",
+            "request": "launch",
+            "mainClass": "variaveis/main",
+            "projectName": "projetoSoftware1"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "contames",
+            "request": "launch",
+            "mainClass": "aula4/estrutura.contames",
+            "projectName": "aula4 (2)"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "aula4/orientação.Principal",
+            "projectName": "aula4 (2)"
+        },
+        {
+            "type": "java",
+            "name": "principal",
+            "request": "launch",
+            "mainClass": "aula4/poo.principal",
+            "projectName": "aula4 (2)"
+        },
+        {
+            "type": "java",
+            "name": "repeticao",
+            "request": "launch",
+            "mainClass": "aula4/aula4.repeticao",
+            "projectName": "aula4"
+        },
+        {
+            "type": "java",
+            "name": "samuel",
+            "request": "launch",
+            "mainClass": "aula4/aula4.samuel",
+            "projectName": "aula4"
+        },
+        {
+            "type": "java",
+            "name": "simm",
+            "request": "launch",
+            "mainClass": "aula4/aula4.simm",
+            "projectName": "aula4"
+        },
+        {
+            "type": "java",
+            "name": "repeticao(1)",
+            "request": "launch",
+            "mainClass": "variaveis/aula4.repeticao",
+            "projectName": "projetoSoftware1"
+        },
+        {
+            "type": "java",
+            "name": "samuel(1)",
+            "request": "launch",
+            "mainClass": "variaveis/aula4.samuel",
+            "projectName": "projetoSoftware1"
+        },
+        {
+            "type": "java",
+            "name": "simm(1)",
+            "request": "launch",
+            "mainClass": "variaveis/aula4.simm",
+            "projectName": "projetoSoftware1"
+        },
+        {
+            "type": "java",
+            "name": "variaveis/desafio6",
+            "request": "launch",
+            "mainClass": "variaveis/desafio6",
+            "projectName": "projetoSoftware1"
+        },
+        {
+            "type": "java",
+            "name": "desafio1",
+            "request": "launch",
+            "mainClass": "variaveis/desafios.desafio1",
+            "projectName": "projetoSoftware1"
+        },
+        {
+            "type": "java",
+            "name": "desafio2",
+            "request": "launch",
+            "mainClass": "variaveis/desafios.desafio2",
+            "projectName": "projetoSoftware1"
+        },
+        {
+            "type": "java",
+            "name": "desafio3",
+            "request": "launch",
+            "mainClass": "variaveis/desafios.desafio3",
+            "projectName": "projetoSoftware1"
+        },
+        {
+            "type": "java",
+            "name": "desafio4",
+            "request": "launch",
+            "mainClass": "variaveis/desafios.desafio4",
+            "projectName": "projetoSoftware1"
+        },
+        {
+            "type": "java",
+            "name": "desafio5",
+            "request": "launch",
+            "mainClass": "variaveis/desafios.desafio5",
+            "projectName": "projetoSoftware1"
+        },
+        {
+            "type": "java",
+            "name": "desafio6",
+            "request": "launch",
+            "mainClass": "variaveis/desafios.desafio6",
+            "projectName": "projetoSoftware1"
+        },
+        {
+            "type": "java",
+            "name": "contames(1)",
+            "request": "launch",
+            "mainClass": "variaveis/estrutura.contames",
+            "projectName": "projetoSoftware1"
+        },
+        {
+            "type": "java",
+            "name": "Principal(1)",
+            "request": "launch",
+            "mainClass": "variaveis/orientação.Principal",
+            "projectName": "projetoSoftware1"
+        },
+        {
+            "type": "java",
+            "name": "principal(1)",
+            "request": "launch",
+            "mainClass": "variaveis/poo.principal",
+            "projectName": "projetoSoftware1"
+        },
+        {
+            "type": "java",
+            "name": "SistemasNotas",
+            "request": "launch",
+            "mainClass": "variaveis/sequisersim.SistemasNotas",
+            "projectName": "projetoSoftware1"
+        },
+        {
+            "type": "java",
+            "name": "compras",
+            "request": "launch",
+            "mainClass": "variaveis/sequisersim.compras",
+            "projectName": "projetoSoftware1"
+        },
+        {
+            "type": "java",
+            "name": "EntradaDeDados",
+            "request": "launch",
+            "mainClass": "variaveis/variaveis.EntradaDeDados",
+            "projectName": "projetoSoftware1"
+        },
+        {
+            "type": "java",
+            "name": "TipoDados",
+            "request": "launch",
+            "mainClass": "variaveis/variaveis.TipoDados",
+            "projectName": "projetoSoftware1"
+        },
+        {
+            "type": "java",
+            "name": "exercicio",
+            "request": "launch",
+            "mainClass": "variaveis/variaveis.exercicio",
+            "projectName": "projetoSoftware1"
+        },
+        {
+            "type": "java",
+            "name": "exercicio2",
+            "request": "launch",
+            "mainClass": "variaveis/variaveis.exercicio2",
+            "projectName": "projetoSoftware1"
+        },
+        {
+            "type": "java",
+            "name": "exercicio3",
+            "request": "launch",
+            "mainClass": "variaveis/variaveis.exercicio3",
+            "projectName": "projetoSoftware1"
+        },
+        {
+            "type": "java",
+            "name": "exercicio4",
+            "request": "launch",
+            "mainClass": "variaveis/variaveis.exercicio4",
+            "projectName": "projetoSoftware1"
+        },
+        {
+            "type": "java",
+            "name": "exercicio5",
+            "request": "launch",
+            "mainClass": "variaveis/variaveis.exercicio5",
+            "projectName": "projetoSoftware1"
+        },
+        {
+            "type": "java",
+            "name": "SistemasNotas(1)",
+            "request": "launch",
+            "mainClass": "sequisersim/sequisersim.SistemasNotas",
+            "projectName": "sequisersim"
+        },
+        {
+            "type": "java",
+            "name": "compras(1)",
+            "request": "launch",
+            "mainClass": "sequisersim/sequisersim.compras",
+            "projectName": "sequisersim"
+        },
+        {
+            "type": "java",
+            "name": "EntradaDeDados(1)",
+            "request": "launch",
+            "mainClass": "variaveis/variaveis.EntradaDeDados",
+            "projectName": "variaveis"
+        },
+        {
+            "type": "java",
+            "name": "TipoDados(1)",
+            "request": "launch",
+            "mainClass": "variaveis/variaveis.TipoDados",
+            "projectName": "variaveis"
+        },
+        {
+            "type": "java",
+            "name": "exercicio(1)",
+            "request": "launch",
+            "mainClass": "variaveis/variaveis.exercicio",
+            "projectName": "variaveis"
+        },
+        {
+            "type": "java",
+            "name": "exercicio2(1)",
+            "request": "launch",
+            "mainClass": "variaveis/variaveis.exercicio2",
+            "projectName": "variaveis"
+        },
+        {
+            "type": "java",
+            "name": "exercicio3(1)",
+            "request": "launch",
+            "mainClass": "variaveis/variaveis.exercicio3",
+            "projectName": "variaveis"
+        },
+        {
+            "type": "java",
+            "name": "exercicio4(1)",
+            "request": "launch",
+            "mainClass": "variaveis/variaveis.exercicio4",
+            "projectName": "variaveis"
+        },
+        {
+            "type": "java",
+            "name": "exercicio5(1)",
+            "request": "launch",
+            "mainClass": "variaveis/variaveis.exercicio5",
+            "projectName": "variaveis"
+        }
+    ]
+}
